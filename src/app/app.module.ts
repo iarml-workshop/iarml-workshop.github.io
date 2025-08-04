@@ -11,6 +11,7 @@ import { TopicsComponent } from './topics/topics.component';
 import { SubmissionComponent } from './submission/submission.component';
 import { SpeakersComponent } from './speakers/speakers.component';
 import { CommitteeComponent } from './committee/committee.component';
+import { ScheduleComponent } from './schedule/schedule.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -21,6 +22,7 @@ import { CommitteeComponent } from './committee/committee.component';
     SubmissionComponent,
     SpeakersComponent,
     CommitteeComponent,
+    ScheduleComponent,
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,36 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.session {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border-left: 5px solid #004080;
+  background: #f0f4f8;
+  border-radius: 6px;
+}
+
+.session.break {
+  border-left-color: #999;
+  background: #eee;
+}
+
+.session.closing {
+  border-left-color: #0a944d;
+}
+
+.time {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.desc ul {
+  padding-left: 1.2rem;
+  margin: 0.5rem 0 0 0;
+}
+
+.desc li {
+  margin-bottom: 0.4rem;
+}
