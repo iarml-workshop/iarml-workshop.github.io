@@ -1,3 +1,10 @@
+p {
+  font-family: 'Lato', sans-serif;
+  color: #495057;
+  line-height: 1.7;
+  font-size: 1.1em;
+
+}
 .container {
   max-width: 800px;
   margin: auto;
